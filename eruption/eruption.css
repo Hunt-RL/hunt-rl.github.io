@@ -62,7 +62,7 @@
 }
 
 .ds4 .bumper.left.pressed, .ds4 .bumper.right.pressed {
-    background: url(bumper left.png);
+    background: url(bumperleft.png);
 }
 
 .ds4 .touchpad {
@@ -121,16 +121,16 @@
     background: url(y.png);
 }
 .ds4 .a.pressed {
-    background: url(a pressed.png);
+    background: url(apressed.png);
 }
 .ds4 .b.pressed {
-    background: url(b pressed.png);
+    background: url(bpressed.png);
 }
 .ds4 .x.pressed {
-    background: url(x pressed.png);
+    background: url(xpressed.png);
 }
 .ds4 .y.pressed {
-    background: url(y pressed.png);
+    background: url(ypressed.png);
 }
 .ds4 .sticks {
     position: absolute;
@@ -193,19 +193,19 @@
 }
 
 .ds4 .face.up.pressed {
-    background: url(up pressed.png);
+    background: url(uppressed.png);
 }
 
 .ds4 .face.right.pressed {
-    background: url(right pressed.png);
+    background: url(rightpressed.png);
 }
 
 .ds4 .face.down.pressed {
-    background: url(down pressed.png);
+    background: url(downpressed.png);
 }
 
 .ds4 .face.left.pressed {
-    background: url(left pressed.png);
+    background: url(leftpressed.png);
 }
 
 
