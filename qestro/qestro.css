@@ -98,38 +98,24 @@
     transform: rotate(180deg);
 }
 
-.xbox .arrows {
+.xbox .arrows, .xbox .back, .xbox .start, .xbox .back.pressed, .xbox .start.pressed {
     position: absolute;
-    width: 141px;
-    height: 33px;
-    top: 264px;
-    left: 306px;
-}
-
-.xbox .back, .xbox .start {
-    background: url();
-    width: 730px;
     height: 650px;
-    opacity: 0;
-}
-
-.xbox .back.pressed, .xbox .start.pressed {
-    opacity: 1;
+    width: 730px;
+    top: 0px;
+    left: 0px;
 }
 
 .xbox .back {
-	background: url(back.png);
-    float: left;
+    background: url(back.png);
 }
 
 .xbox .start {
-	background: url(start.png);
-    background-position: 0px 0px;
-    float: right;
+    background: url(start.png);
 }
-
 .xbox .abxy {
     position: absolute;
+    background-position: 0px 0px;
     width: 730px;
     height: 650x;
     top: 0px;
@@ -150,42 +136,36 @@
 
 .xbox .a {
     background: url(a.png);
-    background-position: 0px 0;
     top: 0px;
     left: 0px;
 }
 
 .xbox .b {
 	background: url(b.png);
-    background-position: 0px 0;
     top: 0px;
-    right: 0px;
+    left: 0px;
 }
 
 .xbox .x {
     background: url(x.png);
-    background-position: 0px 0;
     top: 0px;
-    right: 0px;
+    left: 0px;
 }
 
 .xbox .y {
     background: url(y.png);
-    background-position: 0px 0;
     top: 0px;
-    right: 0px;
+    left: 0px;
 }
 
 .xbox .a.pressed {
     background: url(apressed.png);
-    background-position: 0px 0;
     top: 0px;
     left: 0px;
 }
 
 .xbox .b.pressed {
 	background: url(bpressed.png);
-    background-position: 0px 0;
     top: 0px;
     right: 0px;
 }
@@ -199,7 +179,6 @@
 
 .xbox .y.pressed {
     background: url(ypressed.png);
-    background-position: 0px 0;
     top: 0px;
     right: 0px;
 }
