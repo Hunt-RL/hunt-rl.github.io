@@ -118,10 +118,10 @@
     left: 0px;
 }
 .ds4 .a {
-    background: url(a.png);
+    background: url(a2.png);
 }
 .ds4 .b {
-    background: url(b.png);
+    background: url(b2.png);
 }
 .ds4 .x {
     background: url(x.png);
@@ -130,10 +130,10 @@
     background: url(y.png);
 }
 .ds4 .a.pressed {
-    background: url(apressed.png);
+    background: url(a.png);
 }
 .ds4 .b.pressed {
-    background: url(bpressed.png);
+    background: url(b.png);
 }
 .ds4 .x.pressed {
     background: url(xpressed.png);
