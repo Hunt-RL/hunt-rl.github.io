@@ -143,10 +143,10 @@
 }
 .ds4 .sticks {
     position: absolute;
-    width: 361px;
-    height: 105px;
-    top: 308px;
-    left: 228px;
+    width: 553px;
+    height: 106px;
+    top: 692px;
+    left: 394px;
 }
 
 .ds4 .stick {
@@ -165,7 +165,7 @@
 }
 
 .ds4 .stick.left {
-    top: 0;
+    top: 1px;
     left: 0;
 }
 
