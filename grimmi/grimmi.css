@@ -38,7 +38,7 @@
     background: url();
 }
 .ds4 .stick {
-    background: url(stick.png);
+    background: url(sticks.png);
 }
 
 .controller.ds4 {
@@ -194,7 +194,7 @@
 }
 
 .ds4 .face.down {
-    background: url(donw.png);
+    background: url(down.png);
 }
 
 .ds4 .face.left {
@@ -210,7 +210,7 @@
 }
 
 .ds4 .face.down.pressed {
-    background: url(donwpressed.png);
+    background: url(downpressed.png);
 }
 
 .ds4 .face.left.pressed {
