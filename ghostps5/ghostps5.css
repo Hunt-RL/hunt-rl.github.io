@@ -186,35 +186,35 @@
 }
 
 .ds4 .face.up {
-    background: url(up.png);
+    background: url();
 }
 
 .ds4 .face.right {
-    background: url(right.png);
+    background: url();
 }
 
 .ds4 .face.down {
-    background: url(down.png);
+    background: url();
 }
 
 .ds4 .face.left {
-    background: url(left.png);
+    background: url();
 }
 
 .ds4 .face.up.pressed {
-    background: url(uppressed.png);
+    background: url();
 }
 
 .ds4 .face.right.pressed {
-    background: url(rightpressed.png);
+    background: url();
 }
 
 .ds4 .face.down.pressed {
-    background: url(downpressed.png);
+    background: url();
 }
 
 .ds4 .face.left.pressed {
-    background: url(leftpressed.png);
+    background: url();
 }
 
 
