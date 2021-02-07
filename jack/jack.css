@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(base.png);
+    background: url(https://github.com/Hunt-RL/hunt-rl.github.io/blob/master/jack/base.png?raw=true);
 }
 
 .ds4.disconnected {
@@ -55,11 +55,11 @@
 }
 
 .ds4 .trigger.left {
-    background: url(l2.png);
+    background: url(https://github.com/Hunt-RL/hunt-rl.github.io/blob/master/jack/l2.png?raw=true);
 }
 
 .ds4 .trigger.right {
-    background: url(r2.png);
+    background: url(https://github.com/Hunt-RL/hunt-rl.github.io/blob/master/jack/r2.png?raw=true);
 }
 
 .ds4 .bumper, .ds4 .bumpers, .ds4 .bumper.pressed, .ds4 .bumper.left, .ds4 .bumper.right {
@@ -71,7 +71,7 @@
 }
 
 .ds4 .bumper.left.pressed, .ds4 .bumper.right.pressed {
-    background: url(l1.png);
+    background: url(https://github.com/Hunt-RL/hunt-rl.github.io/blob/master/jack/l1.png?raw=true);
 }
 
 .ds4 .touchpad {
