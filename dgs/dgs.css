@@ -135,25 +135,25 @@
 }
 
 .xbox .a {
-    background: url();
+    background: url(a.png);
     top: 0px;
     left: 0px;
 }
 
 .xbox .b {
-	background: url();
+	background: url(b.png);
     top: 0px;
     left: 0px;
 }
 
 .xbox .x {
-    background: url();
+    background: url(x.png);
     top: 0px;
     left: 0px;
 }
 
 .xbox .y {
-    background: url();
+    background: url(y.png);
     top: 0px;
     left: 0px;
 }
