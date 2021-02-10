@@ -216,14 +216,14 @@
 
 .xbox .dpad {
     position: absolute;
-    width: 110px;
-    height: 111px;
-    top: 345px;
-    left: 223px;
+    width: 750px;
+    height: 630px;
+    left: 0px;
+    top: 0px;
 }
 
 .xbox .face {
-    background: url(dpad.png);
+    background: url();
     position: absolute;
     opacity: 0;
 }
@@ -233,34 +233,35 @@
 }
 
 .xbox .face.up {
-    background-position: 34px 0;
-    left: 38px;
+    background: url(uppressed.png);
+    left: 0px;
     top: 0px;
-    width: 34px;
-    height: 56px;
+    width: 750px;
+    height: 630px;
 }
 
 .xbox .face.down {
-    left: 38px;
-    bottom: 0;
-    width: 34px;
-    height: 56px;
+    background: url(downpressed.png);
+    left: 0px;
+    top: 0px;
+    width: 750px;
+    height: 630px;
 }
 
 .xbox .face.left {
-    background-position: 0 -93px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
-    left: 0;
+    background: url(leftpressed.png);
+    left: 0px;
+    top: 0px;
+    width: 750px;
+    height: 630px;
 }
 
 .xbox .face.right {
-    background-position: 0 -57px;
-    width: 55px;
-    height: 35px;
-    top: 38px;
-    right: 0;
+    background: url(rightpressed.png);
+    left: 0px;
+    top: 0px;
+    width: 750px;
+    height: 630px;
 }
 
 .xbox.half {
