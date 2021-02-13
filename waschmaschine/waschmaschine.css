@@ -1,1 +1,224 @@
-@import url("data:text/css;base64,LypCRUdJTiBQUzQgQ29udHJvbGxlciBTdHlsaW5nKi8NCi5jb250cm9sbGVyLmRzNCB7DQogICAgYmFja2dyb3VuZDogdXJsKGJhc2UucG5nKTsNCn0NCg0KLmRzNC5kaXNjb25uZWN0ZWQgew0KICAgIGJhY2tncm91bmQ6IHVybCgpOw0KfQ0KDQouZHM0LmRpc2Nvbm5lY3RlZCBkaXYgew0KICAgIGRpc3BsYXk6IG5vbmU7DQp9DQoNCi5kczQgLnRyaWdnZXIgew0KICAgIGJhY2tncm91bmQ6IHVybCgpOw0KfQ0KLmRzNCAuYnVtcGVyIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoKSBuby1yZXBlYXQ7DQp9DQouZHM0IC50b3VjaHBhZCB7DQogICAgYmFja2dyb3VuZDogdXJsKHRvdWNocGFkLnBuZykgbm8tcmVwZWF0IGNlbnRlcjsNCn0NCi5kczQgLnRvdWNocGFkLnByZXNzZWQgew0KICAgIGJhY2tncm91bmQ6IHVybCgpIG5vLXJlcGVhdCBjZW50ZXI7DQp9DQouZHM0IC5tZXRhLnByZXNzZWQgew0KICAgIGJhY2tncm91bmQ6IHVybChtZXRhLnBuZyk7DQogICAgcG9zaXRpb246IGFic29sdXRlOw0KICAgIGhlaWdodDogNTk5cHg7DQogICAgd2lkdGg6IDgwNnB4Ow0KICAgIHRvcDogMHB4Ow0KICAgIGxlZnQ6IDBweDsNCn0NCi5kczQgLmJhY2ssIC5kczQgLnN0YXJ0IHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoKTsNCn0NCi5kczQgLmJ1dHRvbiB7DQogICAgYmFja2dyb3VuZDogdXJsKCk7DQp9DQouZHM0IC5zdGljayB7DQogICAgYmFja2dyb3VuZDogdXJsKHN0aWNrcy5wbmcpOw0KfQ0KDQouY29udHJvbGxlci5kczQgew0KICAgIGhlaWdodDogNTk5cHg7DQogICAgd2lkdGg6IDgwNnB4Ow0KfQ0KDQouZHM0IC50cmlnZ2VyLCAuZHM0IC50cmlnZ2VycyB7DQogICAgcG9zaXRpb246IGFic29sdXRlOw0KICAgIGhlaWdodDogNTk5cHg7DQogICAgd2lkdGg6IDgwNnB4Ow0KICAgIHRvcDogMHB4Ow0KICAgIGxlZnQ6IDBweDsNCn0NCg0KLmRzNCAudHJpZ2dlci5sZWZ0IHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwobDIucG5nKTsNCn0NCg0KLmRzNCAudHJpZ2dlci5yaWdodCB7DQogICAgYmFja2dyb3VuZDogdXJsKHIyLnBuZyk7DQp9DQoNCi5kczQgLmJ1bXBlciwgLmRzNCAuYnVtcGVycywgLmRzNCAuYnVtcGVyLnByZXNzZWQsIC5kczQgLmJ1bXBlci5sZWZ0LCAuZHM0IC5idW1wZXIucmlnaHQgew0KICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgICBoZWlnaHQ6IDU5OXB4Ow0KICAgIHdpZHRoOiA4MDZweDsNCiAgICB0b3A6IDBweDsNCiAgICBsZWZ0OiAwcHg7DQp9DQoNCi5kczQgLmJ1bXBlci5sZWZ0LnByZXNzZWQsIC5kczQgLmJ1bXBlci5yaWdodC5wcmVzc2VkIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwobDEucG5nKTsNCn0NCg0KLmRzNCAudG91Y2hwYWQgew0KICAgIGhlaWdodDogNTk5cHg7DQogICAgd2lkdGg6IDgwNnB4Ow0KICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgICBsZWZ0OiAwcHg7DQogICAgdG9wOiAwcHg7DQp9DQoNCi5kczQgLnRvdWNocGFkLnByZXNzZWQgew0KICAgIC8qYmFja2dyb3VuZDogdXJsKCkgbm8tcmVwZWF0IGNlbnRlcjsqLw0KfQ0KDQouZHM0IC5tZXRhIHsNCiAgICB3aWR0aDogNDJweDsNCiAgICBoZWlnaHQ6IDQycHg7DQogICAgcG9zaXRpb246IGFic29sdXRlOw0KICAgIGxlZnQ6IDM4MnB4Ow0KICAgIGJvdHRvbTogMjE2cHg7DQp9DQoNCi5kczQgLmFycm93cywgLmRzNCAuYmFjaywgLmRzNCAuc3RhcnQsIC5kczQgLmJhY2sucHJlc3NlZCwgLmRzNCAuc3RhcnQucHJlc3NlZCB7DQogICAgcG9zaXRpb246IGFic29sdXRlOw0KICAgIGhlaWdodDogNTk5cHg7DQogICAgd2lkdGg6IDgwNnB4Ow0KICAgIHRvcDogMHB4Ow0KICAgIGxlZnQ6IDBweDsNCn0NCg0KLmRzNCAuYmFjayB7DQogICAgYmFja2dyb3VuZDogdXJsKHNoYXJlLnBuZyk7DQp9DQoNCi5kczQgLnN0YXJ0IHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwob3B0aW9ucy5wbmcpOw0KfQ0KDQouZHM0IC5hYnh5LCAuZHM0IC5idXR0b24sIC5kczQgYnV0dG9uLnByZXNzZWQgew0KICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgICBoZWlnaHQ6IDU5OXB4Ow0KICAgIHdpZHRoOiA4MDZweDsNCiAgICB0b3A6IDBweDsNCiAgICBsZWZ0OiAwcHg7DQp9DQouZHM0IC5hIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoYS5wbmcpOw0KfQ0KLmRzNCAuYiB7DQogICAgYmFja2dyb3VuZDogdXJsKGIucG5nKTsNCn0NCi5kczQgLnggew0KICAgIGJhY2tncm91bmQ6IHVybCh4LnBuZyk7DQp9DQouZHM0IC55IHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoeS5wbmcpOw0KfQ0KLmRzNCAuYS5wcmVzc2VkIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoYXByZXNzZWQucG5nKTsNCn0NCi5kczQgLmIucHJlc3NlZCB7DQogICAgYmFja2dyb3VuZDogdXJsKGJwcmVzc2VkLnBuZyk7DQp9DQouZHM0IC54LnByZXNzZWQgew0KICAgIGJhY2tncm91bmQ6IHVybCh4cHJlc3NlZC5wbmcpOw0KfQ0KLmRzNCAueS5wcmVzc2VkIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoeXByZXNzZWQucG5nKTsNCn0NCi5kczQgLnN0aWNrcyB7DQogICAgcG9zaXRpb246IGFic29sdXRlOw0KICAgIHdpZHRoOiAzNjFweDsNCiAgICBoZWlnaHQ6IDEwNXB4Ow0KICAgIHRvcDogMzA5cHg7DQogICAgbGVmdDogMjI4cHg7DQp9DQoNCi5kczQgLnN0aWNrIHsNCiAgICBwb3NpdGlvbjogYWJzb2x1dGU7DQogIC8qYmFja2dyb3VuZDogdXJsKHBzNC1hc3NldHMvc3RpY2tzLnN2Z3opOyovDQogICAgaGVpZ2h0OiA5NHB4Ow0KICAgIHdpZHRoOiA5NHB4Ow0KfQ0KDQouZHM0IC5zdGljay5wcmVzc2VkLmxlZnQgew0KICAgIGJhY2tncm91bmQtcG9zaXRpb24teDogLTk2cHg7DQp9DQoNCi5kczQgLnN0aWNrLnByZXNzZWQucmlnaHQgew0KICAgIGJhY2tncm91bmQtcG9zaXRpb24teDogLTE5MnB4Ow0KfQ0KDQouZHM0IC5zdGljay5sZWZ0IHsNCiAgICB0b3A6IDA7DQogICAgbGVmdDogMDsNCn0NCg0KLmRzNCAuc3RpY2sucmlnaHQgew0KICAgIHRvcDogY2FsYygxMDAlIC0gMTA1cHgpOw0KICAgIGxlZnQ6IGNhbGMoMTAwJSAtIDEwNXB4KTsNCn0NCg0KDQoNCg0KLmRzNCAuZmFjZS51cCwgLmRzNCAuZmFjZS5yaWdodCwgLmRzNCAuZmFjZS5kb3duLCAuZHM0IC5mYWNlLmxlZnQsIC5kczQgLmRwYWQgew0KICAgIHBvc2l0aW9uOiBhYnNvbHV0ZTsNCiAgICBoZWlnaHQ6IDU5OXB4Ow0KICAgIHdpZHRoOiA4MDZweDsNCiAgICB0b3A6IDBweDsNCiAgICBsZWZ0OiAwcHg7DQp9DQoNCi5kczQgLmZhY2UudXAgew0KICAgIGJhY2tncm91bmQ6IHVybCh1cC5wbmcpOw0KfQ0KDQouZHM0IC5mYWNlLnJpZ2h0IHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwocmlnaHQucG5nKTsNCn0NCg0KLmRzNCAuZmFjZS5kb3duIHsNCiAgICBiYWNrZ3JvdW5kOiB1cmwoZG93bi5wbmcpOw0KfQ0KDQouZHM0IC5mYWNlLmxlZnQgew0KICAgIGJhY2tncm91bmQ6IHVybChsZWZ0LnBuZyk7DQp9DQoNCi5kczQgLmZhY2UudXAucHJlc3NlZCB7DQogICAgYmFja2dyb3VuZDogdXJsKHVwcHJlc3NlZC5wbmcpOw0KfQ0KDQouZHM0IC5mYWNlLnJpZ2h0LnByZXNzZWQgew0KICAgIGJhY2tncm91bmQ6IHVybChyaWdodHByZXNzZWQucG5nKTsNCn0NCg0KLmRzNCAuZmFjZS5kb3duLnByZXNzZWQgew0KICAgIGJhY2tncm91bmQ6IHVybChkb3ducHJlc3NlZC5wbmcpOw0KfQ0KDQouZHM0IC5mYWNlLmxlZnQucHJlc3NlZCB7DQogICAgYmFja2dyb3VuZDogdXJsKGxlZnRwcmVzc2VkLnBuZyk7DQp9DQoNCg0KLmRzNC5oYWxmIHsNCiAgICBtYXJnaW4tdG9wOiAtMzAwcHg7DQp9DQovKkVORCBQUzQgQ29udHJvbGxlciBTdHlsaW5nKi8=")
+/*BEGIN PS4 Controller Styling*/
+.controller.ds4 {
+    background: url(base.png);
+}
+
+.ds4.disconnected {
+    background: url(disconnected.png);
+}
+
+.ds4.disconnected div {
+    display: none;
+}
+
+.ds4 .trigger {
+    background: url();
+}
+.ds4 .bumper {
+    background: url() no-repeat;
+}
+.ds4 .touchpad {
+    background: url(touchpad.png) no-repeat center;
+}
+.ds4 .touchpad.pressed {
+    background: url() no-repeat center;
+}
+.ds4 .meta.pressed {
+    background: url(meta.png);
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+.ds4 .back, .ds4 .start {
+    background: url();
+}
+.ds4 .button {
+    background: url();
+}
+.ds4 .stick {
+    background: url(sticks.png);
+}
+
+.controller.ds4 {
+    height: 599px;
+    width: 806px;
+}
+
+.ds4 .trigger, .ds4 .triggers {
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+
+.ds4 .trigger.left {
+    background: url(l2.png);
+}
+
+.ds4 .trigger.right {
+    background: url(r2.png);
+}
+
+.ds4 .bumper, .ds4 .bumpers, .ds4 .bumper.pressed, .ds4 .bumper.left, .ds4 .bumper.right {
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+
+.ds4 .bumper.left.pressed, .ds4 .bumper.right.pressed {
+    background: url(l1.png);
+}
+
+.ds4 .touchpad {
+    height: 599px;
+    width: 806px;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.ds4 .touchpad.pressed {
+    /*background: url() no-repeat center;*/
+}
+
+.ds4 .meta {
+    width: 42px;
+    height: 42px;
+    position: absolute;
+    left: 382px;
+    bottom: 216px;
+}
+
+.ds4 .arrows, .ds4 .back, .ds4 .start, .ds4 .back.pressed, .ds4 .start.pressed {
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+
+.ds4 .back {
+    background: url(share.png);
+}
+
+.ds4 .start {
+    background: url(options.png);
+}
+
+.ds4 .abxy, .ds4 .button, .ds4 button.pressed {
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+.ds4 .a {
+    background: url(a.png);
+}
+.ds4 .b {
+    background: url(b.png);
+}
+.ds4 .x {
+    background: url(x.png);
+}
+.ds4 .y {
+    background: url(y.png);
+}
+.ds4 .a.pressed {
+    background: url(apressed.png);
+}
+.ds4 .b.pressed {
+    background: url(bpressed.png);
+}
+.ds4 .x.pressed {
+    background: url(xpressed.png);
+}
+.ds4 .y.pressed {
+    background: url(ypressed.png);
+}
+.ds4 .sticks {
+    position: absolute;
+    width: 361px;
+    height: 105px;
+    top: 309px;
+    left: 228px;
+}
+
+.ds4 .stick {
+    position: absolute;
+  /*background: url(ps4-assets/sticks.svgz);*/
+    height: 94px;
+    width: 94px;
+}
+
+.ds4 .stick.pressed.left {
+    background-position-x: -96px;
+}
+
+.ds4 .stick.pressed.right {
+    background-position-x: -192px;
+}
+
+.ds4 .stick.left {
+    top: 0;
+    left: 0;
+}
+
+.ds4 .stick.right {
+    top: calc(100% - 105px);
+    left: calc(100% - 105px);
+}
+
+
+
+
+.ds4 .face.up, .ds4 .face.right, .ds4 .face.down, .ds4 .face.left, .ds4 .dpad {
+    position: absolute;
+    height: 599px;
+    width: 806px;
+    top: 0px;
+    left: 0px;
+}
+
+.ds4 .face.up {
+    background: url(up.png);
+}
+
+.ds4 .face.right {
+    background: url(right.png);
+}
+
+.ds4 .face.down {
+    background: url(down.png);
+}
+
+.ds4 .face.left {
+    background: url(left.png);
+}
+
+.ds4 .face.up.pressed {
+    background: url(uppressed.png);
+}
+
+.ds4 .face.right.pressed {
+    background: url(rightpressed.png);
+}
+
+.ds4 .face.down.pressed {
+    background: url(downpressed.png);
+}
+
+.ds4 .face.left.pressed {
+    background: url(leftpressed.png);
+}
+
+
+.ds4.half {
+    margin-top: -300px;
+}
+/*END PS4 Controller Styling*/
