@@ -146,22 +146,22 @@
     width: 329px;
     height: 105px;
     top: 346px;
-    left: 197px;
+    left: 196px;
 }
 
 .ds4 .stick {
     position: absolute;
   /*background: url(ps4-assets/sticks.svgz);*/
-    height: 82px;
-    width: 82px;
+    height: 83px;
+    width: 83px;
 }
 
 .ds4 .stick.pressed.left {
-    background-position-x: -82px;
+    background-position-x: -83px;
 }
 
 .ds4 .stick.pressed.right {
-    background-position-x: -164px;
+    background-position-x: -166px;
 }
 
 .ds4 .stick.left {
