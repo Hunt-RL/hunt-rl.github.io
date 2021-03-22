@@ -186,35 +186,35 @@
 }
 
 .ds4 .face.up {
-    background: url(up.png);
-}
-
-.ds4 .face.right {
-    background: url(right.png);
-}
-
-.ds4 .face.down {
-    background: url(down.png);
-}
-
-.ds4 .face.left {
-    background: url(left.png);
-}
-
-.ds4 .face.up.pressed {
     background: url(uppressed.png);
 }
 
-.ds4 .face.right.pressed {
+.ds4 .face.right {
     background: url(rightpressed.png);
 }
 
-.ds4 .face.down.pressed {
+.ds4 .face.down {
     background: url(downpressed.png);
 }
 
-.ds4 .face.left.pressed {
+.ds4 .face.left {
     background: url(leftpressed.png);
+}
+
+.ds4 .face.up.pressed {
+    background: url(up.png);
+}
+
+.ds4 .face.right.pressed {
+    background: url(right.png);
+}
+
+.ds4 .face.down.pressed {
+    background: url(down.png);
+}
+
+.ds4 .face.left.pressed {
+    background: url(left.png);
 }
 
 
