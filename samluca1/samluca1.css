@@ -118,28 +118,28 @@
     left: 0px;
 }
 .ds4 .a {
-    background: url(a.png);
-}
-.ds4 .b {
-    background: url(b.png);
-}
-.ds4 .x {
-    background: url(x.png);
-}
-.ds4 .y {
-    background: url(y.png);
-}
-.ds4 .a.pressed {
     background: url(apressed.png);
 }
-.ds4 .b.pressed {
+.ds4 .b {
     background: url(bpressed.png);
 }
-.ds4 .x.pressed {
+.ds4 .x {
     background: url(xpressed.png);
 }
-.ds4 .y.pressed {
+.ds4 .y {
     background: url(ypressed.png);
+}
+.ds4 .a.pressed {
+    background: url(a.png);
+}
+.ds4 .b.pressed {
+    background: url(b.png);
+}
+.ds4 .x.pressed {
+    background: url(x.png);
+}
+.ds4 .y.pressed {
+    background: url(y.png);
 }
 .ds4 .sticks {
     position: absolute;
