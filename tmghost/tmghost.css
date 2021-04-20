@@ -83,7 +83,6 @@
 }
 
 .ds4 .touchpad.pressed {
-    /*background: url() no-repeat center;*/
 }
 
 .ds4 .meta {
@@ -149,7 +148,6 @@
 
 .ds4 .stick {
     position: absolute;
-  /*background: url(ps4-assets/sticks.svgz);*/
     height: 58px;
     width: 58px;
 }
@@ -184,19 +182,19 @@
 }
 
 .ds4 .face.up {
-    background: url(up.png);
+    background: url();
 }
 
 .ds4 .face.right {
-    background: url(right.png);
+    background: url();
 }
 
 .ds4 .face.down {
-    background: url(down.png);
+    background: url();
 }
 
 .ds4 .face.left {
-    background: url(left.png);
+    background: url();
 }
 
 .ds4 .face.up.pressed {
