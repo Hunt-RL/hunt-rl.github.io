@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(basean.png);
+    background: url(base.png);
 }
 
 .ds4.disconnected {
@@ -148,8 +148,8 @@
 
 .ds4 .stick {
     position: absolute;
-    height: 58px;
-    width: 58px;
+    height: 59px;
+    width: 59px;
 }
 
 .ds4 .stick.pressed.left {
@@ -157,7 +157,7 @@
 }
 
 .ds4 .stick.pressed.right {
-    background-position-x: -59px;
+    background-position-x: -58px;
 }
 
 .ds4 .stick.left {
@@ -198,19 +198,19 @@
 }
 
 .ds4 .face.up.pressed {
-    background: url(uppressed.png);
+    background: url(up.png);
 }
 
 .ds4 .face.right.pressed {
-    background: url(rightpressed.png);
+    background: url(right.png);
 }
 
 .ds4 .face.down.pressed {
-    background: url(downpressed.png);
+    background: url(down.png);
 }
 
 .ds4 .face.left.pressed {
-    background: url(leftpressed.png);
+    background: url(left.png);
 }
 
 
