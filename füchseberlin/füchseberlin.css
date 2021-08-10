@@ -1,6 +1,6 @@
 /*BEGIN PS4 Controller Styling*/
 .controller.ds4 {
-    background: url(base.png);
+    background: url(test.png);
 }
 
 .ds4.disconnected {
